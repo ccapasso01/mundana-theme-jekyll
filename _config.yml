@@ -1,7 +1,7 @@
 # Site
 name: 'Adventures with TnT'
 description: 'Description of site goes here'
-logo: 'assets/images/logo.png'
+#logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
 baseurl: ''
@@ -22,11 +22,14 @@ plugins:
 authors:
     terri:
       name:           Terri Sluss-Cole
-      site:           https://www.facebook.com/terri.slusscole
+      #site:          https://www.facebook.com/terri.slusscole
       avatar:         assets/images/avatar.jpg
       bio:            "Fill in with your bio"
       email:          terrijsc@gmail.com
       twitter:        https://twitter.com/TerriJSC
+      facebook:       https://www.facebook.com/terri.slusscole
+      instagram:      https://www.instagram.com/terrijsc/
+      linkedin:       https://www.linkedin.com/in/terri-sluss-cole-77996720/
  
 # Defaults
 defaults:
