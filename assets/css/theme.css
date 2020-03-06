@@ -614,6 +614,9 @@ a.text-dark:hover {
 ul.list-unstyled li {
 	margin-bottom:.3rem;
 }
+ul{
+	list-style: none;
+}
 ol.list-featured {
 	counter-reset:my-awesome-counter;
 	list-style:none;
