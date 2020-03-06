@@ -617,6 +617,9 @@ ul.list-unstyled li {
 ul{
 	list-style: none;
 }
+li {
+	margin: 6px;
+}
 ol.list-featured {
 	counter-reset:my-awesome-counter;
 	list-style:none;
